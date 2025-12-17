@@ -74,5 +74,3 @@ weather-app/
 * [OpenWeatherMap API](https://openweathermap.org/api)
 
 ---
-
-ription** or **project tagline**
